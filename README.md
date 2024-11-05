@@ -24,8 +24,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/ALazarevic/webpack-project-jump-start.git
+   cd webpack-project-jump-start
    ```
 2. **Install Dependencies**: Make sure you have Node.js and npm installed, then run:
 
